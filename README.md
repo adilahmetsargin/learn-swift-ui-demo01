@@ -30,3 +30,11 @@ In this tutorial, you’ll animate a view that contains a graph for tracking the
 -Composing complex interfaces
 The category view for Landmarks shows a vertically scrolling list of horizontally scrolling landmarks. As you build this view and connect it to your existing views, you’ll explore how composed views can adapt to different device sizes and orientations.
 
+-
+App design and layout
+Working with UI controls
+In the Landmarks app, users can create a profile to express their personality. To give users the ability to change their profile, you’ll add an edit mode and design the preferences screen.
+
+You’ll work with a variety of common user interface controls for data entry, and update the Landmarks model types whenever the user saves their changes.
+
+
